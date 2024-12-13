@@ -1,4 +1,4 @@
-# Desktop Lyrics Shower 
+# SpotLyric 
 
 This is a program written in Python that allows you to display lyrics from Spotify on your desktop, similar to Rainmeter, using your Spotify client ID and secret. It utilizes the Spotify API to retrieve details about the song you are listening to, uses a package called Synced Lyrics to get the lyrics, and employs PyQt5 to display the lyrics directly on your desktop. Written by Praveen.
 
